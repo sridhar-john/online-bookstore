@@ -37,6 +37,7 @@
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
+			<lombok>1.18.12</lombok>
 			<optional>true</optional>
 		</dependency>
 		<dependency>
